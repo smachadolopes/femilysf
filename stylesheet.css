@@ -32,3 +32,8 @@
     background-color: #EFE0D9;
     color: white;
   }
+
+  img { 
+    height:100%; 
+    width:auto; 
+  }
