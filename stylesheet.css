@@ -8,14 +8,14 @@
   #navbar a {
     float: right;
     display: block;
-    color: #EFE0D9;
+    color: #D4828F;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     padding: 14px 16px;
     margin: 0px 10px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 25px;
     border: 2px;
     border-style: solid;
     font-size:12px;
@@ -24,13 +24,13 @@
   
   /* Change the color of links on hover */
   #navbar a:hover {
-    background-color: #EFE0D9;
+    background-color: #D4828F;
     color: white;
   }
   
   /* Add a color to the active/current link */
   #navbar a.active {
-    background-color: #EFE0D9;
+    background-color: #D4828F;
     color: white;
   }
 
